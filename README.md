@@ -1,4 +1,4 @@
-# Hospital-anagement-System
+# Hospital-Management-System
 
 Perform basic records realted activities and operations related to Hospital Management.
 
