@@ -2,7 +2,7 @@ import time
 from sys import exit
 import mysql.connector as sql
 
-con = sql.connect(host = "localhost", user = "root", password = "ENG249/94MySQL", database = "Project")
+con = sql.connect(host = "localhost", user = "root", password = "**************", database = "Project")
 if con.is_connected():
     print("Successfully connected.")
 cursor = con.cursor()
